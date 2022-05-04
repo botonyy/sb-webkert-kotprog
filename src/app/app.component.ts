@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'sb-webkert-kotprog';
-  page = 'contact';
+  
 }
